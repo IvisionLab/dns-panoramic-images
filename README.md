@@ -1,3 +1,7 @@
+# Attention
+
+If you are looking for the **DNS Panoramic Images v2** data set used in the paper "Numbering permanent and deciduous teeth via deep instance segmentation in panoramic X-rays," click on this [link](https://github.com/IvisionLab/dns-panoramic-images-v2).
+
 # A study on tooth segmentation and numbering using end-to-end deep neural networks
 In this repo, you will find instructions on how to [request the data set](#Request-the-Data-Set) used to perform the experiments of the paper mentioned above.
 The used data set modifies the [UFBA-UESC Dental Images Deep data set](https://github.com/IvisionLab/deep-dental-image), which contains 1500 panoramic dental X-ray images, adding more instance annotations and including numbering information.
